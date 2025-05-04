@@ -67,103 +67,110 @@
         </div>
         <!-- Embroidery 2: Replace image URL and title -->
         <div class="group relative">
-          <img src="https://via.placeholder.com/400x300" alt="Embroidery 2" class="w-full h-auto rounded-lg shadow-md transform group-hover:scale-105 transitionогу
-
-        <!-- TrueNAS Server Creation Section -->
-        <section class="bg-white py-12">
-          <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 class="text-2xl font-semibold text-gray-900">TrueNAS Server Creation & Operation</h2>
-            <p class="mt-2 text-gray-600">Building and managing TrueNAS servers for secure, scalable storage solutions.</p>
-            <div class="mt-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-              <!-- TrueNAS Image 1: Replace image URL and title -->
-              <div class="group relative">
-                <img src="https://via.placeholder.com/400x300" alt="TrueNAS Setup" class="w-full h-auto rounded-lg shadow-md transform group-hover:scale-105 transition-transform duration-300">
-                <div class="absolute inset-0 bg-black bg-opacity-50 opacity-0 group-hover:opacity-100 flex items-center justify-center rounded-lg transition-opacity duration-300">
-                  <p class="text-white text-lg font-semibold">TrueNAS Server Build</p>
-                </div>
-              </div>
-              <!-- Add more by duplicating -->
-            </div>
+          <img src="https://via.placeholder.com/400x300" alt="Embroidery 2" class="w-full h-auto rounded-lg shadow-md transform group-hover:scale-105 transition-transform duration-300">
+          <div class="absolute inset-0 bg-black bg-opacity-50 opacity-0 group-hover:opacity-100 flex items-center justify-center rounded-lg transition-opacity duration-300">
+            <p class="text-white text-lg font-semibold">Custom Logo Stitch</p>
           </div>
-        </section>
-
-        <!-- Media Server Hosting Section -->
-        <section class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
-          <h2 class="text-2xl font-semibold text-gray-900">Media Server Hosting</h2>
-          <p class="mt-2 text-gray-600">Setting up and maintaining media servers for seamless streaming.</p>
-          <div class="mt-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            <!-- Media Server Image 1: Replace image URL and title -->
-            <div class="group relative">
-              <img src="https://via.placeholder.com/400x300" alt="Media Server" class="w-full h-auto rounded-lg shadow-md transform group-hover:scale-105 transition-transform duration-300">
-              <div class="absolute inset-0 bg-black bg-opacity-50 opacity-0 group-hover:opacity-100 flex items-center justify-center rounded-lg transition-opacity duration-300">
-                <p class="text-white text-lg font-semibold">Plex Media Server</p>
-              </div>
-            </div>
-            <!-- Add more by duplicating -->
-          </div>
-        </section>
-
-        <!-- Video Editing Section -->
-        <section class="bg-white py-12">
-          <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 class="text-2xl font-semibold text-gray-900">Video Editing</h2>
-            <p class="mt-2 text-gray-600">Creating engaging videos for promotions, tutorials, and more.</p>
-            <div class="mt-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-              <!-- Video 1: Replace video URL and title -->
-              <div class="group relative">
-                <video controls class="w-full h-auto rounded-lg shadow-md">
-                  <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
-                  Your browser does not support the video tag.
-                </video>
-                <p class="mt-2 text-center text-gray-600">Product Promo Video</p>
-              </div>
-              <!-- Add more by duplicating -->
-            </div>
-          </div>
-        </section>
-
-        <!-- Custom PC Builds Section -->
-        <section class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
-          <h2 class="text-2xl font-semibold text-gray-900">Custom PC Builds</h2>
-          <p class="mt-2 text-gray-600">Designing and assembling high-performance PCs for gaming, work, or creativity.</p>
-          <div class="mt-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            <!-- PC Build Image 1: Replace image URL and title -->
-            <div class="group relative">
-              <img src="https://via.placeholder.com/400x300" alt="PC Build" class="w-full h-auto rounded-lg shadow-md transform group-hover:scale-105 transition-transform duration-300">
-              <div class="absolute inset-0 bg-black bg-opacity-50 opacity-0 group-hover:opacity-100 flex items-center justify-center rounded-lg transition-opacity duration-300">
-                <p class="text-white text-lg font-semibold">Gaming PC Build</p>
-              </div>
-            </div>
-            <!-- Add more by duplicating -->
-          </div>
-        </section>
-
-        <!-- Contact Section -->
-        <section class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
-          <h2 class="text-2xl font-semibold text-gray-900">Hire Me</h2>
-          <p class="mt-4 text-gray-600">
-            <!-- Update email address -->
-            Interested in my services? Contact me at <a href="mailto:your.email@example.com" class="text-blue-600 hover:underline">your.email@example.com</a> or connect on social media.
-          </p>
-          <div class="mt-6 flex space-x-4">
-            <!-- Replace with your social media links -->
-            <a href="https://www.linkedin.com/in/yourprofile" class="text-gray-600 hover:text-blue-600">
-              <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
-            </a>
-            <a href="https://www.behance.net/yourprofile" class="text-gray-600 hover:text-blue-600">
-              <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M22 7h-7v-2h7v2zm1.726 10c-.442 1.297-2.029 3-5.101 3-3.074 0-5.564-1.729-5.564-5.675 0-3.91 2.325-5.92 5.466-5.92 3.082 0 4.964 1.782 5.375 4.426.078.506.109 1.188.095 2.14h-8.027c.13 3.211 3.483 3.312 4.588 2.029h3.168zm-7.686-4h4.965c-.105-1.547-1.136-2.219-2.477-2.219-1.466 0-2.277.768-2.488 2.219zm-9.574 6.988h-6.466v-14.967h6.953c5.476 0 5.58 7.221-1.139 7.221 3.006 0 5.652 3.746 1.652 7.746zm-4.911-11.988h3.632c2.784 0 2.881-3.999-1.282-3.999h-2.35v3.999zm2.356 5.987h-2.356v3.999h3.086c2.524 0 2.81-3.999-0.73-3.999z"/></svg>
-            </a>
-          </div>
-          <!-- Call-to-action button -->
-          <a href="mailto:your.email@example.com" class="mt-6 inline-block bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700">Get in Touch</a>
-        </section>
-      </main>
-
-      <!-- Footer -->
-      <footer class="bg-white shadow">
-        <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
-          <p class="text-gray-600 text-center">© 2025 Your Name. All rights reserved.</p>
         </div>
-      </footer>
-    </body>
+        <!-- Add more by duplicating -->
+      </div>
+    </section>
+
+    <!-- TrueNAS Server Creation Section -->
+    <section class="bg-white py-12">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h2 class="text-2xl font-semibold text-gray-900">TrueNAS Server Creation & Operation</h2>
+        <p class="mt-2 text-gray-600">Building and managing TrueNAS servers for secure, scalable storage solutions.</p>
+        <div class="mt-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          <!-- TrueNAS Image 1: Replace image URL and title -->
+          <div class="group relative">
+            <img src="https://via.placeholder.com/400x300" alt="TrueNAS Setup" class="w-full h-auto rounded-lg shadow-md transform group-hover:scale-105 transition-transform duration-300">
+            <div class="absolute inset-0 bg-black bg-opacity-50 opacity-0 group-hover:opacity-100 flex items-center justify-center rounded-lg transition-opacity duration-300">
+              <p class="text-white text-lg font-semibold">TrueNAS Server Build</p>
+            </div>
+          </div>
+          <!-- Add more by duplicating -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Media Server Hosting Section -->
+    <section class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
+      <h2 class="text-2xl font-semibold text-gray-900">Media Server Hosting</h2>
+      <p class="mt-2 text-gray-600">Setting up and maintaining media servers for seamless streaming.</p>
+      <div class="mt-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        <!-- Media Server Image 1: Replace image URL and title -->
+        <div class="group relative">
+          <img src="https://via.placeholder.com/400x300" alt="Media Server" class="w-full h-auto rounded-lg shadow-md transform group-hover:scale-105 transition-transform duration-300">
+          <div class="absolute inset-0 bg-black bg-opacity-50 opacity-0 group-hover:opacity-100 flex items-center justify-center rounded-lg transition-opacity duration-300">
+            <p class="text-white text-lg font-semibold">Plex Media Server</p>
+          </div>
+        </div>
+        <!-- Add more by duplicating -->
+      </div>
+    </section>
+
+    <!-- Video Editing Section -->
+    <section class="bg-white py-12">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h2 class="text-2xl font-semibold text-gray-900">Video Editing</h2>
+        <p class="mt-2 text-gray-600">Creating engaging videos for promotions, tutorials, and more.</p>
+        <div class="mt-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          <!-- Video 1: Replace video URL and title -->
+          <div class="group relative">
+            <video controls class="w-full h-auto rounded-lg shadow-md">
+              <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+            <p class="mt-2 text-center text-gray-600">Product Promo Video</p>
+          </div>
+          <!-- Add more by duplicating -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Custom PC Builds Section -->
+    <section class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
+      <h2 class="text-2xl font-semibold text-gray-900">Custom PC Builds</h2>
+      <p class="mt-2 text-gray-600">Designing and assembling high-performance PCs for gaming, work, or creativity.</p>
+      <div class="mt-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        <!-- PC Build Image 1: Replace image URL and title -->
+        <div class="group relative">
+          <img src="https://via.placeholder.com/400x300" alt="PC Build" class="w-full h-auto rounded-lg shadow-md transform group-hover:scale-105 transition-transform duration-300">
+          <div class="absolute inset-0 bg-black bg-opacity-50 opacity-0 group-hover:opacity-100 flex items-center justify-center rounded-lg transition-opacity duration-300">
+            <p class="text-white text-lg font-semibold">Gaming PC Build</p>
+          </div>
+        </div>
+        <!-- Add more by duplicating -->
+      </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
+      <h2 class="text-2xl font-semibold text-gray-900">Hire Me</h2>
+      <p class="mt-4 text-gray-600">
+        <!-- Update email address -->
+        Interested in my services? Contact me at <a href="mailto:your.email@example.com" class="text-blue-600 hover:underline">your.email@example.com</a> or connect on social media.
+      </p>
+      <div class="mt-6 flex space-x-4">
+        <!-- Replace with your social media links -->
+        <a href="https://www.linkedin.com/in/yourprofile" class="text-gray-600 hover:text-blue-600">
+          <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+        </a>
+        <a href="https://www.behance.net/yourprofile" class="text-gray-600 hover:text-blue-600">
+          <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M22 7h-7v-2h7v2zm1.726 10c-.442 1.297-2.029 3-5.101 3-3.074 0-5.564-1.729-5.564-5.675 0-3.91 2.325-5.92 5.466-5.92 3.082 0 4.964 1.782 5.375 4.426.078.506.109 1.188.095 2.14h-8.027c.13 3.211 3.483 3.312 4.588 2.029h3.168zm-7.686-4h4.965c-.105-1.547-1.136-2.219-2.477-2.219-1.466 0-2.277.768-2.488 2.219zm-9.574 6.988h-6.466v-14.967h6.953c5.476 0 5.58 7.221-1.139 7.221 3.006 0 5.652 3.746 1.652 7.746zm-4.911-11.988h3.632c2.784 0 2.881-3.999-1.282-3.999h-2.35v3.999zm2.356 5.987h-2.356v3.999h3.086c2.524 0 2.81-3.999-0.73-3.999z"/></svg>
+        </a>
+      </div>
+      <!-- Call-to-action button -->
+      <a href="mailto:your.email@example.com" class="mt-6 inline-block bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700">Get in Touch</a>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-white shadow">
+    <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
+      <p class="text-gray-600 text-center">© 2025 Your Name. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
 </html>
